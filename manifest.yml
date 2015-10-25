@@ -1,2 +1,3 @@
 applications:
 - name: python-env
+  host: python-env-${random-word}
